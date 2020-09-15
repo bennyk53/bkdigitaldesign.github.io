@@ -1,0 +1,87 @@
+#navbar {
+    display: flex;
+    background-color: black;
+    border-color: white;
+    border-width: 3px;
+    border-style: solid;
+    justify-content: center;
+}
+
+#navlink {
+    margin: 20px;
+    color: white;
+    font-size: 20px;
+}
+
+#homeLogo{
+    height: 300px;
+    width: 300px;
+}
+
+#welcome{
+    border-color: white;
+    border-width: 3px;
+    border-style: solid;
+    margin: 80px;
+}
+
+#fancyLinks{
+    display: flex;
+    justify-content: center;
+}
+
+.imgLink{
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 400px;
+    width: 400px;  
+}
+
+.imgLink2{
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 100px;
+    width: 600px;  
+}
+
+
+
+.imgcenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.quotecenter{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    width: 80%;
+}
+
+body{
+    background: black;
+    color: white;
+}
+
+h2{
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+p{
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+footer {
+    font-weight: 300;
+    display: flex;
+    justify-content: space-evenly;
+    border-top: 4px solid white;
+  }
